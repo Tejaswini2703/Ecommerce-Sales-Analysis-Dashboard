@@ -32,16 +32,17 @@ The dataset contains 9,994+ order records spanning 2011 to 2014, covering fields
 * Pivot Table
 
 ### What the dashboard covers:-
-📈 YoY Growth KPIs — Sales, Profit, Quantity, Orders & Profit Margin
-🛍️ Category-wise Sales & Profit (Furniture, Office Supplies, Technology)
-🗺️ Sales by State — Geographic Map View
-🏆 Top 5 Customers by Revenue
-📦 Product & Quantity Distribution
-🔀 Interactive Slicers by Ship Mode & Region                
+📈 YoY Growth KPIs — Sales, Profit, Quantity, Orders & Profit Margin<br>
+🛍️ Category-wise Sales & Profit (Furniture, Office Supplies, Technology) <br>
+🗺️ Sales by State — Geographic Map View <br>
+🏆 Top 5 Customers by Revenue <br>
+📦 Product & Quantity Distribution <br>
+🔀 Interactive Slicers by Ship Mode & Region  <br>              
 
-###Final Dashbord :-
-<a href ="https://github.com/Tejaswini2703/Ecommerce-Sales-Analysis-Dashboard/blob/main/Screenshot%202026-06-15%20153221.png">Dasboard</a>
+### Final Dashbord :-
+<a href ="https://github.com/Tejaswini2703/Ecommerce-Sales-Analysis-Dashboard/blob/main/Screenshot%202026-06-15%20153221.png">Dasboard</a><br><br>
 <img width="1754" height="880" alt="Screenshot 2026-06-15 153221" src="https://github.com/user-attachments/assets/15347277-9b11-4595-8ad0-26eaf9e1a75b" />
+
 <br>
 🔗 Feel free to explore, fork, or reach out if you have feedback. Always happy to connect with fellow data enthusiasts! 🙌
 
