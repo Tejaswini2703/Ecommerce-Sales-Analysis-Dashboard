@@ -49,6 +49,63 @@ The dataset contains 9,994+ order records spanning 2011 to 2014, covering fields
 
 ### Final Dashbord :-
 <a href ="https://github.com/Tejaswini2703/Ecommerce-Sales-Analysis-Dashboard/blob/main/Screenshot%202026-06-15%20153221.png">Dasboard</a><br><br>
+******************************************************************************************************************************************************************
+#  Project Title:Bike-Sales-Analysis Dashboard🚲
+
+### Overview
+
+An interactive Excel dashboard built to analyze customer demographics and purchasing behavior for bike sales. The dashboard uses Pivot Tables, Pivot Charts, and Slicers to provide actionable business insights.
+
+### Dataset
+
+The dataset contains customer information including:
+
+* Gender
+* Age & Age Bracket
+* Income
+* Marital Status
+* Education
+* Occupation
+* Region
+* Commute Distance
+* Home Ownership
+* Cars Owned
+* Purchased Bike (Yes/No)
+
+### Business Requirements
+
+* Identify factors influencing bike purchases.
+* Analyze customer demographics and income levels.
+* Understand the impact of age and commute distance on sales.
+* Compare purchasing behavior across regions and education levels.
+
+### Dashboard Covers
+
+* Average Income by Gender and Purchase Status
+* Bike Purchases by Age Bracket
+* Bike Purchases by Commute Distance
+* Interactive Filters for Marital Status, Education, and Region
+
+### Key Learnings
+
+* Data Cleaning and Preparation
+* Pivot Tables & Pivot Charts
+* Slicers and Interactive Reporting
+* Data Visualization in Excel
+* Customer Behavior Analysis
+
+### Key Insights
+
+* Higher-income customers are more likely to purchase bikes.
+* Middle-aged customers show the highest purchase activity.
+* Commute distance influences purchasing decisions.
+* Customer demographics help identify target market segments.
+
+
+
+
+
+
 
 <br>
 🔗 Feel free to explore, fork, or reach out if you have feedback. Always happy to connect with fellow data enthusiasts! 🙌
