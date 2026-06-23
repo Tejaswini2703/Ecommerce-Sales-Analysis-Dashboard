@@ -9,6 +9,8 @@ Excited to share my latest project — E-commerce Sales Analysis Dashboard built
 # Bike-Sales-analysis-Dashboard
 Excited to share my Second Project On Bike Sales Analysis Dashboard built entirely in Microsoft Excel!
 <img width="1728" height="867" alt="Screenshot 2026-06-23 190218" src="https://github.com/user-attachments/assets/efba7b43-3f91-4804-938e-6deebac526cc" />
+<a href="https://github.com/Tejaswini2703/Ecommerce-Sales-Analysis-Dashboard/blob/main/Bike%20Sales%20Analysis/Bike%20Sales%20Analysis.xlsx">Dataset</a>
+
 
 
 ## Project Title: E-commerce Sales Analysis Dashboard
