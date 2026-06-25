@@ -9,6 +9,7 @@ A collection of interactive dashboards built entirely in Microsoft Excel, coveri
 
 1. [E-commerce Sales Analysis Dashboard](#1-e-commerce-sales-analysis-dashboard) — YoY sales KPIs, regional performance, and category-wise profit analysis
 2. [Bike Sales Analysis Dashboard](#2-bike-sales-analysis-dashboard) — Customer demographics and purchasing behavior insights
+3. [Company Sales Analysis Dashboard](#3-company-sales-analysis-dashboard) -sales performance, profitability, customer trends, and regional performance
    
 
 ---
@@ -109,6 +110,8 @@ Gender, Age and Age Bracket, Income, Marital Status, Education, Occupation, Regi
 **Tool:** Microsoft Excel (Power Pivot, PivotTables, PivotCharts, Slicers)
 
 <img width="1862" height="667" alt="Screenshot 2026-06-25 223631" src="https://github.com/user-attachments/assets/bae6a6e1-c9b9-44cb-8e7d-be9dbc115a11" />
+
+### Overview
 
 Built an interactive Excel Sales Dashboard to analyze sales performance, profitability, customer trends, and regional performance. The dashboard helps stakeholders make data-driven business decisions through visual insights.
 
