@@ -102,4 +102,51 @@ Gender, Age and Age Bracket, Income, Marital Status, Education, Occupation, Regi
 
 ---
 
+
+## 1. Company Sales Analysis Dashboard
+
+**Tool:** Microsoft Excel (Power Pivot, PivotTables, PivotCharts, Slicers)
+
+<img width="1862" height="667" alt="Screenshot 2026-06-25 223631" src="https://github.com/user-attachments/assets/bae6a6e1-c9b9-44cb-8e7d-be9dbc115a11" />
+
+Built an interactive Excel Sales Dashboard to analyze sales performance, profitability, customer trends, and regional performance. The dashboard helps stakeholders make data-driven business decisions through visual insights.
+
+### Dataset Fields
+
+Order Date, Year, Month, Customer Name, State,Category, Sub-Category, Product Name, Sales, Quantity, Profit.
+
+### Business Questions Answered
+
+- Which product categories generate the highest sales?
+- Which states contribute the most revenue?
+- How do sales vary across months?
+- Who are the top-performing customers?
+- How has profit changed over the years?
+- What is the customer distribution by year?
+  
+### Dashboard Features
+- Interactive slicers and filters
+- Category-wise sales analysis
+- Monthly sales trend tracking
+- State-wise sales comparison
+- Profit analysis by year and category
+- Top 5 customer insights
+- Customer count visualization
+  
+### Key Insights
+- Technology and Furniture categories drive significant revenue.
+- Sales performance varies considerably across states.
+- Certain months contribute disproportionately to annual sales.
+- A small group of customers generates a large share of profit.
+- Overall profitability shows growth over time.
+
+### Key Learnings
+- Data cleaning and preparation in Excel
+- Pivot Tables and Pivot Charts
+- Interactive dashboard design
+- Slicers and dynamic filtering
+- Business insight generation from sales data
+- Data visualization and storytelling techniques
+
+
 Feel free to explore, fork, or reach out with feedback. Always happy to connect with fellow data enthusiasts! 🙌
